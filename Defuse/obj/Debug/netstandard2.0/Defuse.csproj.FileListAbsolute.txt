@@ -1,0 +1,14 @@
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\bin\Debug\netstandard2.0\Defuse.deps.json
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\bin\Debug\netstandard2.0\Defuse.dll
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\bin\Debug\netstandard2.0\ref\Defuse.dll
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\bin\Debug\netstandard2.0\Defuse.pdb
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\Defuse.csprojAssemblyReference.cache
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\Defuse.csproj.CoreCompileInputs.cache
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\Defuse.AssemblyInfoInputs.cache
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\Defuse.AssemblyInfo.cs
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\Defuse.dll
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\ref\Defuse.dll
+C:\Users\Jacynta\Documents\mobileApps\Defuse\Defuse\Defuse\obj\Debug\netstandard2.0\Defuse.pdb

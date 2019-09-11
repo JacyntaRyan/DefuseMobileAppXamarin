@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Defuse.MainPage"
+             x:Name ="myMainPage">
+
+    <Grid Padding="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Label Text="Avoid the Bomb!" VerticalOptions="Center"  HorizontalOptions="Center" Grid.Row="0" Grid.Column="0" Grid.ColumnSpan="2"/>
+        <Button Text="1" Grid.Row="1" Grid.Column="0" BackgroundColor ="AliceBlue"  Clicked="ButtonClicked"/>
+        <Button Text="2" Grid.Row="2" Grid.Column="0" BackgroundColor ="AliceBlue" Clicked="ButtonClicked"/>
+        <Button Text="3" Grid.Row="3" Grid.Column="0" BackgroundColor ="AliceBlue" Clicked="ButtonClicked"/>
+        <Button Text="4" Grid.Row="1" Grid.Column="1" BackgroundColor ="AliceBlue" Clicked="ButtonClicked"/>
+        <Button Text="5" Grid.Row="2" Grid.Column="1" BackgroundColor ="AliceBlue" Clicked="ButtonClicked"/>
+        <Button Text="6" Grid.Row="3" Grid.Column="1" BackgroundColor ="AliceBlue" Clicked="ButtonClicked"/>
+        <Label x:Name="labelScore" Text="" VerticalOptions="Center"  HorizontalOptions="Center" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="2" />
+           
+    </Grid>
+
+    <!-- <StackLayout >
+        
+        <Label Text="Avoid the Bomb!"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+        <Button Text="1"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="left"
+                Clicked="ButtonClicked"/>
+
+        <Button Text="2"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Left"
+                Clicked="ButtonClicked"/>
+        <Button Text="3"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Left"
+                Clicked="ButtonClicked"/>
+
+        <Button Text="4"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="right"
+                Clicked="ButtonClicked"/>
+
+        <Button Text="5"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Right"
+                Clicked="ButtonClicked"/>
+        <Button Text="6"
+                VerticalOptions="CenterAndExpand"
+                HorizontalOptions="Right"
+                Clicked="ButtonClicked"/>
+
+       
+    <Label Text="created by Jacynta"
+           HorizontalOptions="Center"
+           VerticalOptions="Center" />
+
+    </StackLayout> -->
+
+</ContentPage>
